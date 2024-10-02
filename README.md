@@ -9,12 +9,12 @@ I'm a Junior Full Stack Software Developer based in Auckland, New Zealand ðŸ‡³ðŸ
 
 ### What I'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=c#,aws,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=threejs)](https://skillicons.dev)
 
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aliciatavita/">
+  <a href="https://www.linkedin.com/in/alicia-tavita/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

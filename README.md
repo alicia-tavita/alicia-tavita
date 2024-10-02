@@ -1,9 +1,9 @@
 ## Hiya, I'm Alicia 👩
 
-I'm a Junior Full Stack Software Developer with a mix of technical know-how and strong people skills, thanks to my diverse work experience across different industries. 
-
-### About me: 
-- Based in Auckland, New Zealand 🇳🇿
+I'm a Junior Full Stack Software Developer based in Auckland, New Zealand 🇳🇿 
+<br/>
+I've acquired the perfect mix of technical know-how and people skills, thanks to my diverse work experience across different industries. 
+<br/>
 
 ### My tool kit:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vitest,sqlite,github,tailwind,figma)](https://skillicons.dev)

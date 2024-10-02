@@ -9,7 +9,7 @@ I'm a Junior Full Stack Software Developer based in Auckland, New Zealand ðŸ‡³ðŸ
 
 ### What I'm learning:
 
-[![My Skills](https://skillicons.dev/icons?i=c#,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c#,aws,threejs)](https://skillicons.dev)
 
 ### Socials
 

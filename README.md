@@ -2,7 +2,11 @@
 
 I'm a Junior Full Stack Software Developer based in Auckland, New Zealand 🇳🇿 
 <br/>
-I've acquired the perfect mix of technical know-how and people skills, thanks to my diverse work experience across different industries. 
+<br/>
+Thanks to my diverse work experience across different industries, I've got the perfect mix of technical know-how and people skills. 
+<br/>
+<br/>
+Let's get to know each other!
 <br/>
 
 ### My tool kit:
